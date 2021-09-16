@@ -1,3 +1,5 @@
 #TIL
-Todat I Learned
+
+Today I Learned
+
 I like Learning
